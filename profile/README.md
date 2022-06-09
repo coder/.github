@@ -1,3 +1,3 @@
 # Coder
 
-Developer workspaces on your infrastructure
+![Develop environments on your infrastructure](./hero.jpeg)
