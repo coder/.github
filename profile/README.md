@@ -1,3 +1,16 @@
-![Develop environments on your infrastructure](./hero.jpeg)
+Offload your team's development from local workstations to cloud servers. Onboard developers in minutes. Build, test and compile at the speed of the cloud. Keep your source code and data behind your firewall.
 
-We're working on something new. Take a [peek](https://github.com/coder/coder).
+![Develop environments on your infrastructure](https://github.com/coder/.github/blob/main/hero.jpeg?raw=true)
+
+
+> "By leveraging Terraform, Coder lets developers run an IDE on any compute platform including on-prem, AWS, Azure, GCP, DigitalOcean, Kubernetes, Docker, and more, with workspaces running on Linux, Windows, or Mac." - **[Kevin Fishner](https://www.linkedin.com/in/kevinfishner) Chief of Staff at [HashiCorp](https://hashicorp.com/)**
+ 
+ We're working on something new. Take a [peek](https://github.com/coder/coder) at is being built and [join us in our Discord](https://coder.com/chat?utm_source=github.com/coder/.github&utm_medium=github&utm_campaign=readme.md). 
+
+**Recent blog posts**
+
+- [Coder 101: How Coder Works At A Higher Level](https://coder.com/blog/coder-101-how-coder-works-at-a-higher-level?utm_source=github.com/coder/.github&utm_medium=github&utm_campaign=readme.md)
+- [Coder Engineering Offsite](https://coder.com/blog/coder-engineering-offsite?utm_source=github.com/coder/.github&utm_medium=github&utm_campaign=readme.md)
+- [I’m not a coder, but I love being at Coder](https://coder.com/blog/i-m-not-a-coder-but-i-love-being-at-coder?utm_source=github.com/coder/.github&utm_medium=github&utm_campaign=readme.md)
+
+[View all blog posts →](https://coder.com/blog?utm_source=github.com/coder/.github&utm_medium=github&utm_campaign=readme.md)
