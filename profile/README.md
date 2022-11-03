@@ -9,6 +9,9 @@ Offload your team's development from local workstations to cloud servers. Onboar
 
 **Recent blog posts**
 
+- [Running a private VS Code Extension Marketplace](https://coder.com/blog/running-a-private-vs-code-extension-marketplace?utm_source=github.com/coder/.github&utm_medium=github&utm_campaign=readme.md)
+- [What's New in September 2022](https://coder.com/blog/what-s-new-in-september-2022?utm_source=github.com/coder/.github&utm_medium=github&utm_campaign=readme.md)
+- [What's New in August 2022](https://coder.com/blog/what-s-new-in-august-2022?utm_source=github.com/coder/.github&utm_medium=github&utm_campaign=readme.md)
 - [Coder 101: How Coder Works At A Higher Level](https://coder.com/blog/coder-101-how-coder-works-at-a-higher-level?utm_source=github.com/coder/.github&utm_medium=github&utm_campaign=readme.md)
 - [Coder Engineering Offsite](https://coder.com/blog/coder-engineering-offsite?utm_source=github.com/coder/.github&utm_medium=github&utm_campaign=readme.md)
 - [I’m not a coder, but I love being at Coder](https://coder.com/blog/i-m-not-a-coder-but-i-love-being-at-coder?utm_source=github.com/coder/.github&utm_medium=github&utm_campaign=readme.md)
