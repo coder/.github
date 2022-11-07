@@ -9,6 +9,8 @@ Offload your team's development from local workstations to cloud servers. Onboar
 
 **Recent blog posts**
 
+- [A software development environment is not a container](https://coder.com/blog/not-a-container?utm_source=github.com/coder/.github&utm_medium=github&utm_campaign=readme.md)
+- [Creating a Dedicated Development Environment for Teaching](https://coder.com/blog/dedicated-development-environment-for-teaching?utm_source=github.com/coder/.github&utm_medium=github&utm_campaign=readme.md)
 - [Running a private VS Code Extension Marketplace](https://coder.com/blog/running-a-private-vs-code-extension-marketplace?utm_source=github.com/coder/.github&utm_medium=github&utm_campaign=readme.md)
 - [What's New in September 2022](https://coder.com/blog/what-s-new-in-september-2022?utm_source=github.com/coder/.github&utm_medium=github&utm_campaign=readme.md)
 - [What's New in August 2022](https://coder.com/blog/what-s-new-in-august-2022?utm_source=github.com/coder/.github&utm_medium=github&utm_campaign=readme.md)
