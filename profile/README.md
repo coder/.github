@@ -1,4 +1,4 @@
-Offload your team's development from local workstations to cloud servers. Onboard developers in minutes. Build, test and compile at the speed of the cloud. Keep your source code and data behind your firewall.
+**Software development on _your infrastructure_**. Offload your team's development from local workstations to cloud servers. Onboard developers in minutes. Build, test and compile at the speed of the cloud. Keep your source code and data behind your firewall.
 
 ![Develop environments on your infrastructure](https://github.com/coder/.github/blob/main/hero.jpeg?raw=true)
 
