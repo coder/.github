@@ -9,6 +9,7 @@
 
 **Recent blog posts**
 
+- [How our development team shares one giant bare metal machine](https://coder.com/blog/how-our-development-team-shares-one-giant-bare-metal-machine?utm_source=github.com/coder/.github&utm_medium=github&utm_campaign=readme.md)
 - [A software development environment is not a container](https://coder.com/blog/not-a-container?utm_source=github.com/coder/.github&utm_medium=github&utm_campaign=readme.md)
 - [What's new in October 2022](https://coder.com/blog/what-s-new-in-october-2022?utm_source=github.com/coder/.github&utm_medium=github&utm_campaign=readme.md)
 - [Creating a Dedicated Development Environment for Teaching](https://coder.com/blog/dedicated-development-environment-for-teaching?utm_source=github.com/coder/.github&utm_medium=github&utm_campaign=readme.md)
