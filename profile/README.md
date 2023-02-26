@@ -1,4 +1,7 @@
-Coder offloads development from local workstations to your on-prem and public cloud infrastructure. Boost developer productivity with instant onboarding and powerful server resources. Keep code and data under control within your network.
+Coder shifts software development from local machines to on-prem and public cloud infrastructure. Onboard new developers in minutes, build code on powerful servers—all while keeping source code and data secure behind your firewall.
 
+```bash
+curl coder.com
+```
 
 ![Develop environments on your infrastructure](https://github.com/coder/.github/blob/main/hero.jpeg?raw=true)
