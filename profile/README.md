@@ -4,4 +4,9 @@ Coder shifts software development from local machines to on-prem and public clou
 curl coder.com
 ```
 
-![Develop environments on your infrastructure](https://github.com/coder/.github/blob/main/hero.jpeg?raw=true)
+<!-- Uncomment once the webinar is complete! -->
+<!-- ![Develop environments on your infrastructure](https://github.com/coder/.github/blob/main/hero.jpeg?raw=true) -->
+
+Register for our webinar on August 29th @ 10am PDT:
+
+[![Register for our webinar](https://github.com/coder/.github/blob/main/webinar.jpg?raw=true)](https://coder.com/webinars/the-good-the-bad-and-the-future-of-dev-containers/register)
