@@ -7,6 +7,6 @@ curl coder.com
 <!-- Uncomment once the webinar is complete! -->
 <!-- ![Develop environments on your infrastructure](https://github.com/coder/.github/blob/main/hero.jpeg?raw=true) -->
 
-[Register for our webinar](https://coder.com/webinars/the-good-the-bad-and-the-future-of-dev-containers/register) on August 29th @ 10am PDT:
+[Register for our webinar](http://cdr.co/zMzI2MA) on August 29th @ 10am PDT:
 
-[![Register for our webinar](https://github.com/coder/.github/blob/main/webinar.jpg?raw=true)](https://coder.com/webinars/the-good-the-bad-and-the-future-of-dev-containers/register)
+[![Register for our webinar](https://github.com/coder/.github/blob/main/webinar.jpg?raw=true)](http://cdr.co/zMzI2MA)
