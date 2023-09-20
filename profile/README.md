@@ -10,3 +10,10 @@ Discover, download, and contribute Coder Templates with our new registry, reduci
 ### Built-in JFrog Integrations
 Connect Coder with new single-click integrations with JFrog Artifactory and XRay, securing your software supply chain all the way to the developer desktop.
 Coder shifts software development from local machines to on-prem and public cloud infrastructure. Onboard new developers in minutes, build code on powerful servers—all while keeping source code and data secure behind your firewall.
+
+#### Links:
+- [Coder 2.0 Announcement Blog](https://coder.com/blog/announcing-coder2)
+- [VS Code Dev Containers Extension](https://github.com/coder/envbuilder)
+- [Coder's Envbuilder](https://github.com/coder/envbuilder)
+- [containers.dev Official Site](https://containers.dev/)
+- [https://github.com/coder/coder](https://github.com/coder/coder)
