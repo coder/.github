@@ -4,4 +4,4 @@ Coder shifts software development from local machines to on-prem and public clou
 curl coder.com
 ```
 
-![Develop environments on your infrastructure](https://github.com/coder/.github/blob/main/coder-hero.png?raw=true)
+![Develop environments on your infrastructure](https://github.com/coder/.github/blob/main/coder-hero.png)
