@@ -5,3 +5,7 @@ curl coder.com
 ```
 
 ![Develop environments on your infrastructure](https://github.com/coder/.github/blob/main/coder-hero.png)
+
+## Hiring
+
+Apply [here](https://cdr.co/github-apply) if you're interested in joining our team.
