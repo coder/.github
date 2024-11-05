@@ -1,2 +1,2 @@
-### HTTP/1.1 302 Found
-- Location: https://coder.com/docs/coder-oss/latest/contributing/CODE_OF_CONDUCT
+## Coder CODE_OF_CONDUCT
+- Location: [https://coder.com/docs/coder-oss/latest/contributing/CODE_OF_CONDUCT](https://coder.com/docs/contributing/CODE_OF_CONDUCT)
