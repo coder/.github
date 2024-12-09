@@ -8,4 +8,4 @@ curl coder.com
 
 ## Hiring
 
-Apply [here](https://cdr.co/github-apply) if you're interested in joining our team.
+Apply [here](https://jobs.ashbyhq.com/coder?utm_source=gJyD4K16r8) if you're interested in joining our team.
