@@ -1,4 +1,4 @@
-Coder shifts software development from local machines to on-prem and public cloud infrastructure. Onboard new developers in minutes, build code on powerful servers—all while keeping source code and data secure behind your firewall.
+Coder shifts development environments from local machines to on-prem and public cloud infrastructure. Onboard new developers and their agents in minutes, build code on powerful servers—all while keeping source code and data secure on your infrastructure.
 
 ```bash
 curl coder.com
