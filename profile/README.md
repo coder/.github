@@ -6,6 +6,10 @@ curl coder.com
 
 ![Develop environments on your infrastructure](https://github.com/coder/.github/blob/main/coder-hero.png)
 
+## Community
+
+[Join our Discord](https://discord.gg/coder)
+
 ## Hiring
 
 Apply [here](https://jobs.ashbyhq.com/coder?utm_source=gJyD4K16r8) if you're interested in joining our team.
