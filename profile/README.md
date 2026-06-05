@@ -8,7 +8,7 @@ curl coder.com
 
 ## Community
 
-[Join our Discord](http://cdr.co/discord-Hz2Ea3NcVQ)
+[Join our Discord](https://cdr.co/discord-Hz2Ea3NcVQ)
 
 ## Hiring
 
